@@ -17,7 +17,7 @@ source code which is easily understandable and can have a scaling potentional. T
 I have created this project by keeping this in mind and used OOPs(classes) extensively in my code.  The program that I have created can be done throught conventional methods of coding but it lack consistancy, code review is difficult and is not future proof. 
 
 Code Comprises of two main classes being Player() class and Game() class which contains all the stored data, variables and  Ladder experience for a user. Due to program's customisablity
-it is important to know that liquidity of game is such that it can be fitted in any container designed by user which gives it an edge. 
+it is important to know that liquidity of this game is such that it can be fitted in any container designed by user which gives it an edge over static game design. 
 
 ### Important modules and concepts used 
 ##### Modules
@@ -32,4 +32,5 @@ it is important to know that liquidity of game is such that it can be fitted in 
 * Classes
 * PEP-8
 * Snake and Ladder Working
+
 
